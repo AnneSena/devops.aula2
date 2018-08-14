@@ -1,0 +1,3 @@
+# Paciencia
+# Banco Imobiliario
+# Domino 
